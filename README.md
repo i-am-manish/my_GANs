@@ -12,3 +12,5 @@ steps:
 5.train g with noise as input and images as output...viz.it will match Noise input features to image arraya output
 
 6.for GANS we atleast need 10000 epochs...so try more iterations and optimization
+
+IN MY DCGAN, i generated images of class-6 i.e FROG
