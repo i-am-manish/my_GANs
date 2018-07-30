@@ -1,4 +1,4 @@
-# GAN-for-mnist-generation
+# GANs
 steps:
 
 1.import libraries and process data
