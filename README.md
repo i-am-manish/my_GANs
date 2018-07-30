@@ -7,8 +7,8 @@ steps:
 
 3.concatenate g and d model into a GAN model
 
-4.for certain epochs,train d by inputtting noise+mnist data
+4.for certain epochs,train d ad input=noise_data(make G predict on it)+mnist_data
 
 5.train g with noise as input and images as output...viz.it will match Noise input features to image arraya output
 
-6.for GANS we atleast need 500 epochs...but my chrome sucks at even 50 epochs
+6.for GANS we atleast need 10000 epochs...so try more iterations and optimization
